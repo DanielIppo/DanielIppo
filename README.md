@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel 
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python, how to create a linux from scratch, java
+- 🌱 I’m currently learning python, java
 - 📫 How to reach me email: danielippolito9secondo@gmail.com 
 
 <!---
